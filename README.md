@@ -1,1 +1,1 @@
-# Project-5
+TikTakToe on Python based on module "pygame"
